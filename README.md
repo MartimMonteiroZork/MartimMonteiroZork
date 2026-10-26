@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1500&color=7B61FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Martim;Computer+Engineering+student;I+like+knowing+why+things+work" alt="Hi, I'm Martim" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1500&color=7B61FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Martim;Computer+Engineering+student" alt="Hi, I'm Martim" />
 
 </div>
 
@@ -8,7 +8,6 @@
 data class Martim(
     val role: String = "Computer Engineering student @ ISEL",
     val location: String = "Lisbon, Portugal",
-    val philosophy: String = "Understand why it works, not just that it works",
     val offline: List<String> = listOf("chess", "guitar"),
 )
 ```
@@ -32,7 +31,7 @@ data class Martim(
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square)](https://www.linkedin.com/in/martim-monteiro-41040a429)
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=flat-square&logo=gmail&logoColor=white)](mailto:martimmonteiro2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=flat-square)](mailto:martimmonteiro2004@gmail.com)
 
 <br>
 
