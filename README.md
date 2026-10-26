@@ -15,12 +15,19 @@ data class Martim(
 ```
 
 ### 🛠️ Tech
-
+ 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D0D0D?style=for-the-badge&logo=kotlin&logoColor=E10600)
 ![Android](https://img.shields.io/badge/Android-0D0D0D?style=for-the-badge&logo=android&logoColor=E10600)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=E10600)
-![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=E10600)
 ![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=E10600)
+![C#](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=E10600)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=E10600)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=E10600)
+![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=E10600)
+ 
+![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=E10600)
+![.NET](https://img.shields.io/badge/.NET-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=E10600)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=E10600)
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=E10600)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=E10600)
 
 ### 📊 Stats
