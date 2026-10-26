@@ -37,6 +37,12 @@ data class Martim(
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartimMonteiroZork/MartimMonteiroZork/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartimMonteiroZork/MartimMonteiroZork/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MartimMonteiroZork/MartimMonteiroZork/output/snake-light.svg" />
+</picture>
+
 <sub><i>Consistency is the only shortcut.</i></sub>
 
 </div>
