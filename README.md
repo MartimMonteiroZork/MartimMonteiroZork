@@ -35,7 +35,7 @@ data class Martim(
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MartimMonteiroZork&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E10600&icon_color=E10600&text_color=FFFFFF" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0D0D0D&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=MartimMonteiroZork&hide_border=true&background=0D0D0D&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
 
 </div>
 
