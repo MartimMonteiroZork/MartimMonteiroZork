@@ -8,7 +8,6 @@
 data class Martim(
     val role: String = "Computer Engineering student @ ISEL",
     val location: String = "Lisbon, Portugal",
-    val interests: List<String> = listOf("Android", "Web", "Security", "Digital systems"),
     val philosophy: String = "Understand why it works, not just that it works",
     val offline: List<String> = listOf("♟️ chess", "🎸 guitar"),
 )
