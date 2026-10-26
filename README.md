@@ -41,5 +41,5 @@ data class Martim(
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://www.linkedin.com/in//martim-monteiro-41040a429)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:martimmonteiro2004@gmail.com)
